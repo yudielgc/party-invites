@@ -1,0 +1,11 @@
+{
+    "name"         : "party-invites",
+    "version"      : "0.0.0",
+    "description"  : "Simple SPA with MEAN stack.",
+    "main"         : "server.js",
+    "author"       : "yudielgc",
+    "dependencies" : {
+        "express"   : "~4.6.1",
+        "mongoose"  : "~3.8.13"
+    }
+}

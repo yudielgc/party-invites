@@ -1,0 +1,44 @@
+[
+    {
+        'name': 'Lola',
+        'email': 'lola@email.com',
+        'phone': '123-456-7890',
+        willAttend: false
+    },
+    {
+        'name': 'Lulo',
+        'email': 'lulo@email.com',
+        'phone': '123-456-7890',
+        willAttend: false
+    },
+    {
+        'name': 'Lalito',
+        'email': 'lalito@email.com',
+        'phone': '123-456-7890',
+        willAttend: false
+    },
+    {
+        'name': 'Periko',
+        'email': 'periko@email.com',
+        'phone': '123-456-7890',
+        willAttend: false
+    },
+    {
+        'name': 'Pepillo',
+        'email': 'pepillo@email.com',
+        'phone': '123-456-7890',
+        willAttend: false
+    },
+    {
+        'name': 'fulano',
+        'email': 'fulano@email.com',
+        'phone': '123-456-7890',
+        willAttend: false
+    },
+    {
+        'name': 'mengano',
+        'email': 'mengano@email.com',
+        'phone': '123-456-7890',
+        willAttend: false
+    }
+]
